@@ -15,5 +15,6 @@
       "placement": "footer",
       "page": "/"
     }
-  }
+  },
+  "current": "v1.0.0"
 }

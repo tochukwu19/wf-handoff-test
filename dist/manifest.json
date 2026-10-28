@@ -1,0 +1,20 @@
+{
+  "builtAt": "2026-10-28T12:03:58.703Z",
+  "files": {
+    "global": {
+      "file": "dist/global.min.js",
+      "bytes": 177,
+      "integrity": "sha384-Gy39XfKNQGZDF/HKZcWMUNCF5eHgnZzMMEEcT5NTanvu46SDDQjUpcpwQusG2VSn"
+    },
+    "styles": {
+      "file": "dist/styles.min.css",
+      "bytes": 27,
+      "integrity": "sha384-/ZjF/pYkkgmd1MUBa3ZT4uqeMPuMDA1DWRjVROxYXAwARtyzc6MU6hn/b/M+8tAd"
+    },
+    "home": {
+      "file": "dist/home.min.js",
+      "bytes": 37,
+      "integrity": "sha384-piK7oASftlT+LAB3NgKGl05lt7I3zCvW2UGCS5HKSzwg2n1Hf53196JAq7MSLEuv"
+    }
+  }
+}

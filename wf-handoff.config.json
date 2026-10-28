@@ -1,6 +1,6 @@
 {
   "name": "acme-demo",
-  "repo": "bullet-agency/acme-scripts",
+  "repo": "tochukwu19/wf-handoff-test",
   "entries": {
     "global": {
       "src": "src/global.js",

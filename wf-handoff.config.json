@@ -1,0 +1,19 @@
+{
+  "name": "acme-demo",
+  "repo": "bullet-agency/acme-scripts",
+  "entries": {
+    "global": {
+      "src": "src/global.js",
+      "placement": "footer"
+    },
+    "styles": {
+      "src": "src/global.css",
+      "placement": "head"
+    },
+    "home": {
+      "src": "src/pages/home.js",
+      "placement": "footer",
+      "page": "/"
+    }
+  }
+}
